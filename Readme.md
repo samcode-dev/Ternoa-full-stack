@@ -11,3 +11,7 @@ npm start
 for frontend:
 cd client
 npm start
+
+i left a message for the person who will inspect or review this code. please ask Naffy Castaneda for the message.
+Thanks
+samuel Oluwatimileyin :)
